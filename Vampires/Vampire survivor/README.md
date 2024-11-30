@@ -1,13 +1,3 @@
-In this Pygame project, the code is split into several classes that follow Object-Oriented Programming (OOP) principles, making it modular and easy to maintain:
-
-- **Game Class**: Manages game initialization, setup, input, and the main loop. It coordinates interactions between the player, enemies, and objects.
-- **Player Class**: Represents the player, handling movement and shooting.
-- **Enemy Class**: Spawns enemies and manages their behavior.
-- **Gun and Bullet Classes**: Handle the shooting mechanic, with cooldown and collision detection.
-- **Sprites**: All game objects (player, enemies, bullets) are managed through Pygame's sprite groups for collision detection and updates.
-
-This structure promotes clean, reusable code by separating concerns into distinct classes and using sprite-based handling for game objects.
-
 ### Code Structure
 
 The project is split into different files to maintain modularity and improve readability:

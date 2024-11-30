@@ -11,7 +11,5 @@ A 2D space shooter game developed using Pygame.
   - Sound effects and background music for an immersive experience.
 - **Objective:** Survive as long as possible while dodging meteors and achieving a high score.
 - 
-## LinkedIn Post
-
-Check out this video: 
+## Gameplay video
 [LinkedIn Post](https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7247574918832226304?compact=1)

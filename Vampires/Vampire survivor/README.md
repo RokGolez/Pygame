@@ -1,4 +1,4 @@
-## LinkedIn Post
+## Gameplay video
 
 Check out this video on LinkedIn:
 

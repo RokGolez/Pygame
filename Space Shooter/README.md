@@ -12,4 +12,5 @@ A 2D space shooter game developed using Pygame.
 - **Objective:** Survive as long as possible while dodging meteors and achieving a high score.
 - 
 ## Gameplay video
+Check out this video on LinkedIn:
 [LinkedIn Post](https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7247574918832226304?compact=1)
